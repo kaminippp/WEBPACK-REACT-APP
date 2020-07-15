@@ -4,7 +4,7 @@
 
 - Webpack : compiled and bundle assets and code in a js file
 
-- [x]webpack-dev-server : Gives a server and hot reloading facility both webpack and webpack-dev-server needs as a dev dependency so
+- webpack-dev-server : Gives a server and hot reloading facility both webpack and webpack-dev-server needs as a dev dependency so
 npm i --save-dev webpack webpack-dev-server
 
 - Also webpack-cli to allow us to use webpack commands like build app 
